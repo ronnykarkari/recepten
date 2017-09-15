@@ -1,0 +1,54 @@
+
+body {
+	background-image: url('tjap.jpg');
+
+	background-size: cover;
+
+}
+
+.tekst1 h1 {
+	text-align: center;
+	border-style: solid;
+ 
+}
+
+
+
+img { text-align: right;
+
+ }
+
+ .tekst2 h3 {
+ 	border-style: outset;
+ 	
+ }
+
+ .tekst11 h2 {
+
+border-style: outset;
+width: 600px;
+
+ }
+
+ .tekst11 p {
+ 	width: 600px;
+ }
+
+.tekst123 h2 {
+ 	  	
+    text-align: left;
+	border-style: groove;
+    width: 600px;
+}
+
+.tekst123 p {
+
+	width: 600px;
+
+
+}
+.tekst12 {
+	display: inline-block;
+    }
+
+
